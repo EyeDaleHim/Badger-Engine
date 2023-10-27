@@ -1,2 +1,2 @@
 # Badger-Engine
-Experimental project to create the rhythm-mania indie game Friday Night Funkin'
+Experimental project to create the rhythm-mania indie game Friday Night Funkin' in Heaps.
